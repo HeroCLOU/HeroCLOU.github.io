@@ -4,5 +4,5 @@
 	branch = main
   [submodule "jane_themes_dimension"]
 	path = jane_themes_dimension
-	url = https://github.com/HeroCLOU/HeroCLOU.github.io.git
-	branch = main
+	url = git://url-of-source/
+	
