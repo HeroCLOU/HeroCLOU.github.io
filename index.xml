@@ -2,17 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://github.com/HeroCLOU/HeroCLOU.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 11:42:02 +0800</lastBuildDate><atom:link href="https://github.com/HeroCLOU/HeroCLOU.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 19:09:25 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobby</title>
+      <link>http://example.org/post/hobby/</link>
+      <pubDate>Mon, 27 Jun 2022 19:09:25 +0800</pubDate>
+      
+      <guid>http://example.org/post/hobby/</guid>
+      <description>#Comic——宫崎骏
+##《哈尔的移动城堡》；老实说最近的部分确实没怎么看懂，但我依然非常喜欢这个故事。《千与千寻》中的白龙有少年气，哈尔竟让我觉得是个脆弱的美人，传说中的破碎感也要呼之欲出了。心目中仅次于《幽灵公主》的宫崎骏作品，看多少遍都会觉得很感动。
+##《龙猫》；看治愈的动画真的会让心情变轻快，久石让的配乐像山间泉水边的风铃。故事比较简单，与龙猫的奇妙冒险。精灵 大中小龙猫，煤球虫，像风一样的公交车。触碰或重温童年的无拘无束、心想事成，很感动。不过内核是歌颂伪善的人情世故，令人不快。
+##《千与千寻》；当小孩子的纯真碰见大人的世界。 真后悔小时候没有看千与千寻，现在长大了，能看懂更多东西了，但再也不能像小孩子一样去思考。一面是饱受赞赏的宫崎骏代表作，另一面也是乏善可陈的成长故事。或许可以一看，但实在未见得高明。</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://example.org/post/programming/</link>
+      <pubDate>Mon, 27 Jun 2022 19:03:51 +0800</pubDate>
+      
+      <guid>http://example.org/post/programming/</guid>
+      <description>#开源软件开发课程问题
+##参与开源项目首先需要充分了解开源项目，即熟悉产品的功能、特点；明确自己的定位； 熟悉代码规范与系统架构；阅读与参与讨论。
+##随着课程的推进，我也发现了自己在上机实践方面有着很大的不足，希望接下来可以通过 锻炼在实践上面有所提高。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/post/about/</link>
+      <pubDate>Mon, 27 Jun 2022 18:49:30 +0800</pubDate>
+      
+      <guid>http://example.org/post/about/</guid>
+      <description>大家好，我是HeroCLOU。
+#简介
+##出生地：邯郸
+##性别：女
+##出生日期：2004/9/18</description>
+    </item>
+    
     <item>
       <title>Blog</title>
-      <link>https://github.com/HeroCLOU/HeroCLOU.github.io/post/blog/</link>
+      <link>http://example.org/post/blog/</link>
       <pubDate>Mon, 27 Jun 2022 11:42:02 +0800</pubDate>
       
-      <guid>https://github.com/HeroCLOU/HeroCLOU.github.io/post/blog/</guid>
+      <guid>http://example.org/post/blog/</guid>
       <description>This is HeroClou&amp;rsquo;s first blog test.</description>
     </item>
     
